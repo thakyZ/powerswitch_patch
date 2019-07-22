@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>PowerSwitch Hidden Cable One Steel</identifier>
+  <Version>1.0.0</Version>
+  <dependencies>
+    <li>PowerSwitch</li>
+  </dependencies>
+  <loadAfter>
+    <li>PowerSwitch</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/thakyZ/powerswitch_patch/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/thakyZ/powerswitch_patch/releases/1.0.0</downloadUri>
+</Manifest>
