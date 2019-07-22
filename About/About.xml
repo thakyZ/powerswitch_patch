@@ -4,5 +4,7 @@
   <author>thakyZ</author>
   <url></url>
   <targetVersion>1.0.2059</targetVersion>
-  <description></description>
+  <description>This mod aims to change the required steel to make underground power conduits in the PowerSwitch mod from 2 to 1 for consistency's sake.
+
+Please report any bugs you may have with this mod in the Issues tab on Github.</description>
 </ModMetaData>
