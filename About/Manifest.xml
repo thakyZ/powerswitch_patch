@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>PowerSwitch Hidden Cable One Steel</identifier>
-  <Version>1.0.0</Version>
+  <version>1.0.0</version>
   <dependencies>
     <li>PowerSwitch</li>
   </dependencies>
