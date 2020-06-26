@@ -2,9 +2,12 @@
 <ModMetaData>
   <name>PowerSwitch Hidden Cable One Steel</name>
   <author>thakyZ</author>
-  <url></url>
-  <targetVersion>1.0.2059</targetVersion>
+  <packageId>thakyZ.PowerSwitch.HiddenCableOneSteel</packageId>
   <description>This mod aims to change the required steel to make underground power conduits in the PowerSwitch mod from 2 to 1 for consistency's sake.
 
 Please report any bugs you may have with this mod in the Issues tab on Github.</description>
+  <url>https://github.com/thakyZ/powerswitch_patch/</url>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
 </ModMetaData>
