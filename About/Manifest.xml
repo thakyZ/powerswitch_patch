@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-  <identifier>PowerSwitch Hidden Cable One Steel</identifier>
-  <version>1.0.0</version>
+  <identifier>NekoBoiNick.PowerSwitch.HiddenCableOneSteel</identifier>
+  <version>1.0.3</version>
   <dependencies>
-    <li>PowerSwitch</li>
+    <li>Haplo.PowerSwitch</li>
   </dependencies>
   <loadAfter>
-    <li>PowerSwitch</li>
+    <li>Haplo.PowerSwitch</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/thakyZ/powerswitch_patch/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/thakyZ/powerswitch_patch/releases/1.0.0</downloadUri>
+  <downloadUri>https://github.com/thakyZ/powerswitch_patch/releases</downloadUri>
 </Manifest>
