@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-<<<<<<< HEAD
   <identifier>NekoBoiNick.PowerSwitch.HiddenCableOneSteel</identifier>
   <version>1.0.3</version>
-=======
-  <identifier>PowerSwitch Hidden Cable One Steel</identifier>
-  <version>1.0.2</version>
->>>>>>> 89a8d186b303d9041a773680c34a35093a3afd2f
   <dependencies>
     <li>Haplo.PowerSwitch</li>
   </dependencies>
