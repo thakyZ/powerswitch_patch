@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-  <Operation Class="PatchOperationReplace">
-    <xpath>/Defs/ThingDef[defName="PowerConduitInvisible"]/costList/Steel</xpath>
-    <value>
-      <Steel>1</Steel>
-    </value>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>PowerSwitch</li>
+    </mods>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/ThingDef[defName="PowerConduitInvisible"]/costList/Steel</xpath>
+      <value>
+        <Steel>1</Steel>
+      </value>
+    </match>
   </Operation>
 </Patch>
